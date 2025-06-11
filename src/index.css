@@ -1,0 +1,39 @@
+
+@import "tailwindcss";
+
+
+
+:root{
+
+    --dark-green: #05422C;
+ 
+}
+
+
+
+.limedtdNav{
+    background-color: var(--dark-green);
+    color: white    ;
+
+}
+
+
+.mainNav input{
+    border: 1px solid rgb(209, 202, 202);
+    border-radius: 15px;
+    padding: 4px 8px;
+    width: 100;
+
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;     
+}
+
+button{
+  cursor: pointer;
+}
