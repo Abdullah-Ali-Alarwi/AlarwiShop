@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from "../../images/Logo.png";
+import Logo from "../../images/logo.png";
 import mastercard1 from "../../images/mastercard1.png";
 import mastercard2 from "../../images/mastercard2.png";
 import mastercard3 from "../../images/mastercard3.png";
