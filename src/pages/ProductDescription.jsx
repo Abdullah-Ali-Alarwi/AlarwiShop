@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import ProductimageDetial from '../components/ProductDetailComponents/productimageDetial.jsx';
+import ProductimageDetial from '../components/ProductDetailComponents/ProductimageDetial.jsx';
 import Productinfo from '../components/ProductDetailComponents/Productinfo.jsx';
 import { useDispatch, useSelector } from 'react-redux';
 import { useEffect } from 'react';
